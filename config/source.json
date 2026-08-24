@@ -1,0 +1,12 @@
+{
+  "name": "Victor's TrollStore Source",
+  "subtitle": "自动追踪开源项目的最新 IPA",
+  "description": "适用于 TrollStore 及兼容此格式的客户端。应用文件来自其上游项目。",
+  "message": "每日自动检查更新",
+  "identifier": "com.vvictorli.trollstore.source",
+  "sourceURL": "https://raw.githubusercontent.com/Vvictorli/VictorsTrollStore/main/apps.json",
+  "sourceicon": "https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo/logo.png",
+  "headerURL": "https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo/logo.png",
+  "website": "https://github.com/Vvictorli/VictorsTrollStore",
+  "tintColor": "#FB7299"
+}

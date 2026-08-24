@@ -1,0 +1,21 @@
+[
+  {
+    "name": "PiliPlus",
+    "repository": "bggRGjQaUbCoE/PiliPlus",
+    "bundleIdentifier": "com.example.piliplus",
+    "developerName": "bggRGjQaUbCoE",
+    "localizedDescription": "使用 Flutter 开发的第三方哔哩哔哩客户端。",
+    "iconURL": "https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo/logo.png",
+    "assetPattern": "^PiliPlus_ios_.*\\.ipa$"
+  },
+  {
+    "name": "TiebaPure",
+    "repository": "2218164692/TiebaPure-iOS16",
+    "bundleIdentifier": "dev.infinityf4p.tiebapure",
+    "developerName": "2218164692 / infinityf4p",
+    "localizedDescription": "为 iOS 16 及以上系统适配的轻量纯净贴吧客户端。",
+    "iconURL": "https://raw.githubusercontent.com/2218164692/TiebaPure-iOS16/ios16/TiebaPure/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+    "assetPattern": "^TiebaPure-.*-ios16(?:\\.0)?-unsigned\\.ipa$",
+    "versionPattern": "([0-9]+(?:\\.[0-9]+)+)$"
+  }
+]
