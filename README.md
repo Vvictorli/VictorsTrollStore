@@ -4,6 +4,8 @@
 
 - [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)
 - [TiebaPure-iOS16](https://github.com/2218164692/TiebaPure-iOS16)
+- [PureLive](https://github.com/liuchuancong/pure_live)
+- [Aidoku](https://github.com/Aidoku/Aidoku)
 
 ## 使用
 

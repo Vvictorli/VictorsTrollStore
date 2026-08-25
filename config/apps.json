@@ -17,5 +17,23 @@
     "iconURL": "https://raw.githubusercontent.com/2218164692/TiebaPure-iOS16/ios16/TiebaPure/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
     "assetPattern": "^TiebaPure-.*-ios16(?:\\.0)?-unsigned\\.ipa$",
     "versionPattern": "([0-9]+(?:\\.[0-9]+)+)$"
+  },
+  {
+    "name": "PureLive",
+    "repository": "liuchuancong/pure_live",
+    "bundleIdentifier": "com.mystyle.purelive.liu",
+    "developerName": "liuchuancong",
+    "localizedDescription": "支持哔哩哔哩、虎牙、斗鱼、抖音等平台的开源直播聚合播放器。",
+    "iconURL": "https://raw.githubusercontent.com/liuchuancong/pure_live/master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png",
+    "assetPattern": "^PureLive-.*-ios-arm64-trollstore\\.ipa$"
+  },
+  {
+    "name": "Aidoku",
+    "repository": "Aidoku/Aidoku",
+    "bundleIdentifier": "app.aidoku.Aidoku",
+    "developerName": "Aidoku",
+    "localizedDescription": "适用于 iPhone、iPad 和 Mac 的开源漫画阅读器。",
+    "iconURL": "https://raw.githubusercontent.com/Aidoku/Aidoku/main/Aidoku/App/Resources/Assets.xcassets/AppIcon.appiconset/Icon.png",
+    "assetPattern": "^Aidoku\\.ipa$"
   }
 ]
