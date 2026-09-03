@@ -37,11 +37,11 @@
     {
       "name": "PureLive",
       "bundleIdentifier": "com.mystyle.purelive.liu",
-      "version": "3.0.9",
-      "versionDate": "2026-08-31",
-      "versionDescription": "# 纯粹直播 v3.0.9\n|版本|下载地址|\n|---|---|\n|TV版|[pure_live_TV](https://github.com/liuchuancong/pure_live_TV/releases/latest)|\n|Windows/macOS/Android/iOS版|[pure_live](https://github.com/liuchuancong/pure_live/releases/latest)|\n### 🖥️ Windows 版\n- **Portable ZIP**：解压即用，无需安装\n- **EXE 安装包**：适合所有用户\n- **MSIX 包**：现代应用格式，支持干净卸载\n- 适配：Windows 10/11 x64\n### 🍎 macOS 版\n- macOS 桌面版\n- Universal：Apple Silicon + Intel\n- ZIP / DMG\n### 📱 Android 版\n- Android 8.0+（API 26，FFmpegKit 录制依赖要求）\n- ARM64-v8a\n- ARMv7\n- x86_64\n- 统一 SHA256 校验文件：[**ANDROID_SHA256SUM.txt**](https://github.com/liuchuancong/pure_live/releases/download/v3.0.9/ANDROID_SHA256SUM.txt)\n### 🐧 Linux 版\n- Linux x64\n- Portable tar.gz\n### 🍎 iOS 版\n- unsigned iOS device application\n- TrollStore / ad-hoc IPA\n- ARM64\n### 🔧 Build Metadata\n[**BUILD_METADATA.json**](https://github.com/liuchuancong/pure_live/releases/download/v3.0.9/BUILD_METADATA.json)\n### 📝 本次更新\nversion: 3.0.9\n版本更新：\n- 优化MPV播放器支持超高清观看。\n- 添加设备同步。\n- 修复弹幕速度不同步。",
-      "size": 59023476,
-      "downloadURL": "https://github.com/liuchuancong/pure_live/releases/download/v3.0.9/PureLive-3.0.9-4097-ios-arm64-trollstore.ipa",
+      "version": "3.1.0",
+      "versionDate": "2026-09-02",
+      "versionDescription": "# 纯粹直播 v3.1.0\n|版本|下载地址|\n|---|---|\n|TV版|[pure_live_TV](https://github.com/liuchuancong/pure_live_TV/releases/latest)|\n|Windows/macOS/Android/iOS版|[pure_live](https://github.com/liuchuancong/pure_live/releases/latest)|\n### 🖥️ Windows 版\n- **Portable ZIP**：解压即用，无需安装\n- **EXE 安装包**：适合所有用户\n- **MSIX 包**：现代应用格式，支持干净卸载\n- 适配：Windows 10/11 x64\n### 🍎 macOS 版\n- macOS 桌面版\n- Universal：Apple Silicon + Intel\n- ZIP / DMG\n### 📱 Android 版\n- Android 8.0+（API 26，FFmpegKit 录制依赖要求）\n- ARM64-v8a\n- ARMv7\n- x86_64\n- 统一 SHA256 校验文件：[**ANDROID_SHA256SUM.txt**](https://github.com/liuchuancong/pure_live/releases/download/v3.1.0/ANDROID_SHA256SUM.txt)\n### 🐧 Linux 版\n- Linux x64\n- Portable tar.gz\n### 🍎 iOS 版\n- unsigned iOS device application\n- TrollStore / ad-hoc IPA\n- ARM64\n### 🔧 Build Metadata\n[**BUILD_METADATA.json**](https://github.com/liuchuancong/pure_live/releases/download/v3.1.0/BUILD_METADATA.json)\n### 📝 本次更新\nversion: 3.0.10\n版本更新：\n- 优化MPV播放器用戶可自行设置配置。\n- 优化化设备同步。\n- 添加自定义房间显示->主题-房间卡片设置。\n- 修复录制任务中保持活跃。\n- 修复多画面返回。\n",
+      "size": 59313372,
+      "downloadURL": "https://github.com/liuchuancong/pure_live/releases/download/v3.1.0/PureLive-3.0.10-4098-ios-arm64-trollstore.ipa",
       "developerName": "liuchuancong",
       "localizedDescription": "支持哔哩哔哩、虎牙、斗鱼、抖音等平台的开源直播聚合播放器。",
       "iconURL": "https://raw.githubusercontent.com/liuchuancong/pure_live/master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png"
