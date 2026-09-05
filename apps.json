@@ -13,11 +13,11 @@
     {
       "name": "PiliPlus",
       "bundleIdentifier": "com.example.piliplus",
-      "version": "2.1.2.3",
-      "versionDate": "2026-08-30",
-      "versionDescription": "修复 bug",
-      "size": 23936722,
-      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.2.3/PiliPlus_ios_2.1.2%2B5281.ipa",
+      "version": "2.1.3",
+      "versionDate": "2026-09-05",
+      "versionDescription": "限制直播聊天缓存条目\n音频播放页配置音量均衡 #2598 by @Eazed-Yu\n限制离线弹幕下载并发 #2800 by @KIDA-MNESIA\n关注分组支持切换排序方式 #2772 co-by @defghy\nLinux 支持 WebView #2843 by @Tobiichi-Origuchi\n支持显示定时关闭剩余时间 #2461 co-by @SXP-Simon\n更新直播弹幕屏蔽页面，实现直播弹幕屏蔽 #2821 by @Starfallan\niOS 设置 `ITSAppUsesNonExemptEncryption` 属性 #2789 by @maoawa\n评论输入框增加 LaTeX 公式转 Unicode 开关 #2792 by @milk2715093695\n修复部分视频画质切换问题 #2810 #2828 by @TomorrowX6 co-by @My-Responsitories\n优化字体自重 #2787 by @My-Responsitories\n优化/修复账号逻辑 #2794 #2797 by @KIDA-MNESIA #2817 by @My-Responsitories\n修复 #2709 #2816 #2836 #2837",
+      "size": 23968767,
+      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.3/PiliPlus_ios_2.1.3%2B5314.ipa",
       "developerName": "bggRGjQaUbCoE",
       "localizedDescription": "使用 Flutter 开发的第三方哔哩哔哩客户端。",
       "iconURL": "https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo/logo.png"
