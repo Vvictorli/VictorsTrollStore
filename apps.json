@@ -13,11 +13,11 @@
     {
       "name": "PiliPlus",
       "bundleIdentifier": "com.example.piliplus",
-      "version": "2.1.3.1",
-      "versionDate": "2026-09-05",
-      "versionDescription": "限制直播聊天缓存条目\n音频播放页配置音量均衡 #2598 by @Eazed-Yu\n限制离线弹幕下载并发 #2800 by @KIDA-MNESIA\n关注分组支持切换排序方式 #2772 co-by @defghy\nLinux 支持 WebView #2843 by @Tobiichi-Origuchi\n支持显示定时关闭剩余时间 #2461 co-by @SXP-Simon\n更新直播弹幕屏蔽页面，实现直播弹幕屏蔽 #2821 by @Starfallan\niOS 设置 `ITSAppUsesNonExemptEncryption` 属性 #2789 by @maoawa\n评论输入框增加 LaTeX 公式转 Unicode 开关 #2792 by @milk2715093695\n修复部分视频画质切换问题 #2810 #2828 by @TomorrowX6 co-by @My-Responsitories\n优化字体自重 #2787 by @My-Responsitories\n优化/修复账号逻辑 #2794 #2797 by @KIDA-MNESIA #2817 by @My-Responsitories\n修复 #2709 #2816 #2836 #2837",
-      "size": 23970852,
-      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.3.1/PiliPlus_ios_2.1.3%2B5315.ipa",
+      "version": "2.1.4",
+      "versionDate": "2026-09-13",
+      "versionDescription": "增加综合搜索\n收藏页支持切换页码为倒序\n重构定位视频加载前页视频逻辑\n支持分开查看动态`赞`与`转发`详情\n收藏夹`复制`/`移动`视频时保持顺序 #2850\n其他调整 #2889 by @My-Responsitories\n播放器优化 #2873 by @My-Responsitories\n支持点击动态/评论表情显示 Tooltip，默认关 #2918\n修复 #2892 #2899 #2909 #2949 #2950 #2956\n修复 #2882 by @Tobiichi-Origuchi",
+      "size": 23983183,
+      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.4/PiliPlus_ios_2.1.4%2B5348.ipa",
       "developerName": "bggRGjQaUbCoE",
       "localizedDescription": "使用 Flutter 开发的第三方哔哩哔哩客户端。",
       "iconURL": "https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo/logo.png"
@@ -37,11 +37,11 @@
     {
       "name": "PureLive",
       "bundleIdentifier": "com.mystyle.purelive.liu",
-      "version": "3.1.2",
-      "versionDate": "2026-09-04",
-      "versionDescription": "# 纯粹直播 v3.1.2\n|版本|下载地址|\n|---|---|\n|TV版|[pure_live_TV](https://github.com/liuchuancong/pure_live_TV/releases/latest)|\n|Windows/macOS/Android/iOS版|[pure_live](https://github.com/liuchuancong/pure_live/releases/latest)|\n### 🖥️ Windows 版\n- **Portable ZIP**：解压即用，无需安装\n- **EXE 安装包**：适合所有用户\n- **MSIX 包**：现代应用格式，支持干净卸载\n- 适配：Windows 10/11 x64\n### 🍎 macOS 版\n- macOS 桌面版\n- Universal：Apple Silicon + Intel\n- ZIP / DMG\n### 📱 Android 版\n- Android 8.0+（API 26，FFmpegKit 录制依赖要求）\n- ARM64-v8a\n- ARMv7\n- x86_64\n- 统一 SHA256 校验文件：[**ANDROID_SHA256SUM.txt**](https://github.com/liuchuancong/pure_live/releases/download/v3.1.2/ANDROID_SHA256SUM.txt)\n### 🐧 Linux 版\n- Linux x64\n- Portable tar.gz\n### 🍎 iOS 版\n- unsigned iOS device application\n- TrollStore / ad-hoc IPA\n- ARM64\n### 🔧 Build Metadata\n[**BUILD_METADATA.json**](https://github.com/liuchuancong/pure_live/releases/download/v3.1.2/BUILD_METADATA.json)\n### 📝 本次更新\nversion: 3.1.2\n版本更新：\n- 修复ijk播放器黑屏。\n- 添加多画面静音。\n- 其他bug。",
-      "size": 59369697,
-      "downloadURL": "https://github.com/liuchuancong/pure_live/releases/download/v3.1.2/PureLive-3.1.2-4100-ios-arm64-trollstore.ipa",
+      "version": "3.1.3",
+      "versionDate": "2026-09-13",
+      "versionDescription": "# 纯粹直播 v3.1.3\n|版本|下载地址|\n|---|---|\n|TV版|[pure_live_TV](https://github.com/liuchuancong/pure_live_TV/releases/latest)|\n|Windows/macOS/Android/iOS版|[pure_live](https://github.com/liuchuancong/pure_live/releases/latest)|\n### 🖥️ Windows 版\n- **Portable ZIP**：解压即用，无需安装\n- **EXE 安装包**：适合所有用户\n- **MSIX 包**：现代应用格式，支持干净卸载\n- 适配：Windows 10/11 x64\n### 🍎 macOS 版\n- macOS 桌面版\n- Universal：Apple Silicon + Intel\n- ZIP / DMG\n### 📱 Android 版\n- Android 8.0+（API 26，FFmpegKit 录制依赖要求）\n- ARM64-v8a\n- ARMv7\n- x86_64\n- 统一 SHA256 校验文件：[**ANDROID_SHA256SUM.txt**](https://github.com/liuchuancong/pure_live/releases/download/v3.1.3/ANDROID_SHA256SUM.txt)\n### 🐧 Linux 版\n- Linux x64\n- Portable tar.gz\n### 🍎 iOS 版\n- unsigned iOS device application\n- TrollStore / ad-hoc IPA\n- ARM64\n### 🔧 Build Metadata\n[**BUILD_METADATA.json**](https://github.com/liuchuancong/pure_live/releases/download/v3.1.3/BUILD_METADATA.json)\n### 📝 本次更新\nversion: 3.1.3\n版本更新：\n- 合并来自于@wzgrx的更新。",
+      "size": 60421948,
+      "downloadURL": "https://github.com/liuchuancong/pure_live/releases/download/v3.1.3/PureLive-3.1.3-4101-ios-arm64-trollstore.ipa",
       "developerName": "liuchuancong",
       "localizedDescription": "支持哔哩哔哩、虎牙、斗鱼、抖音等平台的开源直播聚合播放器。",
       "iconURL": "https://raw.githubusercontent.com/liuchuancong/pure_live/master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png"
