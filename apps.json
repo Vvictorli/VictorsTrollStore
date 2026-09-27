@@ -37,11 +37,11 @@
     {
       "name": "PureLive",
       "bundleIdentifier": "com.mystyle.purelive.liu",
-      "version": "3.1.5",
-      "versionDate": "2026-09-24",
-      "versionDescription": "# 纯粹直播 v3.1.5\n|版本|下载地址|\n|---|---|\n|TV版|[pure_live_TV](https://github.com/liuchuancong/pure_live_TV/releases/latest)|\n|Windows/macOS/Android/iOS版|[pure_live](https://github.com/liuchuancong/pure_live/releases/latest)|\n### 🖥️ Windows 版\n- **Portable ZIP**：解压即用，无需安装\n- **EXE 安装包**：适合所有用户\n- **MSIX 包**：现代应用格式，支持干净卸载\n- 适配：Windows 10/11 x64\n### 🍎 macOS 版\n- macOS 桌面版\n- Universal：Apple Silicon + Intel\n- ZIP / DMG\n### 📱 Android 版\n- Android 8.0+（API 26，FFmpegKit 录制依赖要求）\n- ARM64-v8a\n- ARMv7\n- x86_64\n- 统一 SHA256 校验文件：[**ANDROID_SHA256SUM.txt**](https://github.com/liuchuancong/pure_live/releases/download/v3.1.5/ANDROID_SHA256SUM.txt)\n### 🐧 Linux 版\n- Linux x64\n- Portable tar.gz\n### 🍎 iOS 版\n- unsigned iOS device application\n- TrollStore / ad-hoc IPA\n- ARM64\n### 🔧 Build Metadata\n[**BUILD_METADATA.json**](https://github.com/liuchuancong/pure_live/releases/download/v3.1.5/BUILD_METADATA.json)\n### 📝 本次更新\nversion: 3.1.5\n版本更新：\n- 新增 23 个直播平台：百度、酷狗、淘宝、京东、六间房、LOOK、Steam、Bigo、GoodGame、Rumble、Dailymotion、NimoTV、VK",
-      "size": 60990793,
-      "downloadURL": "https://github.com/liuchuancong/pure_live/releases/download/v3.1.5/PureLive-3.1.5-4104-ios-arm64-trollstore.ipa",
+      "version": "3.1.6",
+      "versionDate": "2026-09-26",
+      "versionDescription": "# 纯粹直播 v3.1.6\n|版本|下载地址|\n|---|---|\n|TV版|[pure_live_TV](https://github.com/liuchuancong/pure_live_TV/releases/latest)|\n|Windows/macOS/Android/iOS版|[pure_live](https://github.com/liuchuancong/pure_live/releases/latest)|\n### 🖥️ Windows 版\n- **Portable ZIP**：解压即用，无需安装\n- **EXE 安装包**：适合所有用户\n- **MSIX 包**：现代应用格式，支持干净卸载\n- 适配：Windows 10/11 x64\n### 🍎 macOS 版\n- macOS 桌面版\n- Universal：Apple Silicon + Intel\n- ZIP / DMG\n### 📱 Android 版\n- Android 8.0+（API 26，FFmpegKit 录制依赖要求）\n- ARM64-v8a\n- ARMv7\n- x86_64\n- 统一 SHA256 校验文件：[**ANDROID_SHA256SUM.txt**](https://github.com/liuchuancong/pure_live/releases/download/v3.1.6/ANDROID_SHA256SUM.txt)\n### 🐧 Linux 版\n- Linux x64\n- Portable tar.gz\n### 🍎 iOS 版\n- unsigned iOS device application\n- TrollStore / ad-hoc IPA\n- ARM64\n### 🔧 Build Metadata\n[**BUILD_METADATA.json**](https://github.com/liuchuancong/pure_live/releases/download/v3.1.6/BUILD_METADATA.json)\n### 📝 本次更新\nversion: 3.1.6\n版本更新：\n- 快手主播搜索改用原生接口，修复此前网页版列表为空；同时下线 11 个长期无法维护的平台（GoodGame、Rumble、Dailymotion、NimoTV、VK",
+      "size": 65178311,
+      "downloadURL": "https://github.com/liuchuancong/pure_live/releases/download/v3.1.6/PureLive-3.1.6-4105-ios-arm64-trollstore.ipa",
       "developerName": "liuchuancong",
       "localizedDescription": "支持哔哩哔哩、虎牙、斗鱼、抖音等平台的开源直播聚合播放器。",
       "iconURL": "https://raw.githubusercontent.com/liuchuancong/pure_live/master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png"
