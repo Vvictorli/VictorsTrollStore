@@ -13,11 +13,11 @@
     {
       "name": "PiliPlus",
       "bundleIdentifier": "com.example.piliplus",
-      "version": "2.1.5",
-      "versionDate": "2026-09-25",
-      "versionDescription": "支持自定义主题颜色 #3009\n综合搜索用户过滤黑名单 #3043\n可复制文本工具栏默认添加站内搜索按钮 #2984\n支持保存 SC 为图片 co-by @My-Responsitories\n支持 Windows deeplink #2673 by @HChaZZY\n支持 Linux deeplink #2931 by @Tobiichi-Origuchi\n降低桌面端 PIP 大小限制 #2735 #2982 by @Aclguh\n桌面端支持保存全部图片 #2920 #2983 by @My-Responsitories\nLinux 支持内嵌 WebView #3014 #3016 by @Tobiichi-Origuchi co-by @My-Responsitories\n其他调整 #2962 #3025 #3027 by @My-Responsitories\n修复分 P 视频链接 #2963\n修复滑动快进/退震动失效 #2966\n修复小窗模式下画面被 SC 遮挡 #3005\n修复无痕模式出现直播入场提示 #2971\n修复多次点击截图保存退出视频页面 #3017\n修复更新媒体通知、后台连播 #2761 #2943\n修复 iOS 静音模式下偶发视频无声修复 #3039 @sounfury\n修复部分安卓无法登录 #2930 #3063 by @Tobiichi-Origuchi\n修复 macOS 切换全屏控件无法点击 #2917 #2976 by @milk2715093695",
-      "size": 23999265,
-      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.5/PiliPlus_ios_2.1.5%2B5410.ipa",
+      "version": "2.1.6",
+      "versionDate": "2026-10-05",
+      "versionDescription": "支持离线合集归档\n支持离线/更新空降片段\n添加视频过滤作用域详情\n支持切换`番剧`/`剧集`季度\n支持横屏时在侧栏显示`番剧`列表\n直播聊天显示`主播`标识 #3156\n直播聊天只显示点亮的牌子 #3155\n用户未直播时在主页显示入口按钮 #3033\n从视频切到直播不影响视频倍速 #3112\n支持转发同时评论 #3135\n@ 用户时置顶被`回复`/`转发`用户 #3123\n视频控制栏控件溢出处理 #3085\n添加英文文档 #3131 by @maoawa\n桌面端画中画记忆窗口位置大小 #2997\n收藏夹已满且未收藏时禁用选中 #3113\niOS 支持系统 PIP #3160 by @AotianNeo\n黑名单屏蔽扩展本地屏蔽，增加过滤搜索、评论\n支持按 `Enter` 保存截图 #3101 by @403bug\n支持从媒体会话向前/后跳转音视频 #2964 co-by @silverwolf-lv9999\n修复弹幕速度 #3136\n修复收藏夹视频跳转 #3137\n修复下滑关闭侧栏主页 #3160\n修复触控板浏览图片 https://github.com/bggRGjQaUbCoE/PiliPlus/issues/183#issuecomment-5976539299\n修复 Windows 26H2 任务栏不在底部时，退出全屏出现窗口偏移 #2901",
+      "size": 24083344,
+      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6/PiliPlus_ios_2.1.6%2B5453.ipa",
       "developerName": "bggRGjQaUbCoE",
       "localizedDescription": "使用 Flutter 开发的第三方哔哩哔哩客户端。",
       "iconURL": "https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo/logo.png"
