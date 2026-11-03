@@ -13,11 +13,11 @@
     {
       "name": "PiliPlus",
       "bundleIdentifier": "com.example.piliplus",
-      "version": "2.2.0",
-      "versionDate": "2026-11-01",
-      "versionDescription": "设置选项调整\n支持切换`番剧`/`剧集` PV\npgc/pugv api 迁移至 ogv\n`我的订阅`详情默认倒序显示\n相关推荐过滤屏蔽黑名单 #3276\n用户主页支持显示粉丝勋章 #3202\n键盘方向键支持长按持续回退 #3379\n同步空降助手新片段类型`惊吓` #3368\n桌面端进度条支持鼠标悬停预览视频画面\n增加桌面端视频底栏时长字体大小 #3372\n增加滚轮调节音量开关 #3340 by @Hdy08\n侧边栏支持隐藏文字 #3343 by @illumiat\n支持`,`/`.`键逐档切换倍速 #3294 by @lzblack\n重构 Linux 内嵌 WebView #3423 by @moluopro\nLinux 构建依赖调整 #3277 by @Tobiichi-Origuchi\nLinux 支持多媒体控制 #3355 by @Tobiichi-Origuchi\nLinux 支持检测网络类型 #3164 #3374 by @Tobiichi-Origuchi\n`我的`页面支持显示`观看记录`、`稍后再看`、`我的订阅`\n支持自定义`buvid` #3253 #3349 co-by @My-Responsitories\n缓存面板支持选择音质，修复音质选取问题 #3309 co-by @azkbzxf\n支持导出/导入所有数据到压缩包 #3248 by @nlsdt #3313 by @My-Responsitories\n其他调整 #3349 by @My-Responsitories\n构建脚本不再改写用户的全局 Git 配置 #3360 by @AmCh-Q\n适配更多专栏类型\n支持显示 UP 专栏文集 #3316\n首页直播置顶分类标签 #3363\n增加全屏 SC 是否显示/不透明度/缩放设置\n直播与视频的缓冲区大小区分开 #3308 by @azkbzxf\n支持查看折叠评论 #2391\n动态/视频评论 Scheme 改为跳转源页面后定位评论\n增加过滤复制视频介绍评论选项 #3312 by @My-Responsitories\n增加屏蔽`@`类型评论选项 #2808 #3241 co-by @My-Responsitories\n修复 bug\n修复 #3323 #3385\n修复专栏跳转评论后内容倒序显示 #3289\n修复长用户名被截断 #3359 by @Che",
-      "size": 24921912,
-      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0/PiliPlus_ios_2.2.0%2B5580.ipa",
+      "version": "2.2.0.1",
+      "versionDate": "2026-11-02",
+      "versionDescription": "修复 bug\n修复无法播放 drm 番剧 #3449\n修复匿名账号搜索被风控 #3411\n修复安卓(vivo)音量调节 #3442 by @numb747\n修复 Linux MPRIS 未设置 DesktopEntry 与 Identity #3438 by @Infinifar",
+      "size": 24914746,
+      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0.1/PiliPlus_ios_2.2.0%2B5590.ipa",
       "developerName": "bggRGjQaUbCoE",
       "localizedDescription": "使用 Flutter 开发的第三方哔哩哔哩客户端。",
       "iconURL": "https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo/logo.png"
