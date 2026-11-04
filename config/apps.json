@@ -35,5 +35,15 @@
     "localizedDescription": "适用于 iPhone、iPad 和 Mac 的开源漫画阅读器。",
     "iconURL": "https://raw.githubusercontent.com/Aidoku/Aidoku/main/Aidoku/App/Resources/Assets.xcassets/AppIcon.appiconset/Icon.png",
     "assetPattern": "^Aidoku\\.ipa$"
+  },
+  {
+    "name": "Regram",
+    "repository": "RegramDev/Regram-ios",
+    "bundleIdentifier": "app.swiftgram.ios",
+    "developerName": "RegramDev",
+    "localizedDescription": "基于 Telegram iOS 源码维护的非官方客户端，提供消息管理、隐私控制、翻译、语音识别和界面定制。",
+    "iconURL": "https://raw.githubusercontent.com/RegramDev/Regram-ios/master/Regram/RGBranding/AppIcons.xcassets/RGConversation.appiconset/RGConversation-light.png",
+    "assetPattern": "^Regram-[0-9]+(?:\\.[0-9]+)+-b[0-9]+\\.ipa$",
+    "versionPattern": "^v?([0-9]+(?:\\.[0-9]+)+)-b[0-9]+$"
   }
 ]

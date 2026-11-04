@@ -13,11 +13,11 @@
     {
       "name": "PiliPlus",
       "bundleIdentifier": "com.example.piliplus",
-      "version": "2.2.0.1",
-      "versionDate": "2026-11-02",
-      "versionDescription": "修复 bug\n修复无法播放 drm 番剧 #3449\n修复匿名账号搜索被风控 #3411\n修复安卓(vivo)音量调节 #3442 by @numb747\n修复 Linux MPRIS 未设置 DesktopEntry 与 Identity #3438 by @Infinifar",
-      "size": 24914746,
-      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0.1/PiliPlus_ios_2.2.0%2B5590.ipa",
+      "version": "2.2.0.2",
+      "versionDate": "2026-11-03",
+      "versionDescription": "更新投屏依赖 https://github.com/bggRGjQaUbCoE/PiliPlus/issues/2680#issuecomment-6597938908\n修复部分视频评论显示不全 #3458\n修复播放课堂视频 #3454 by @ucxn\n修复 macOS 关闭系统标题栏后无法拖动 #3453 by @NalCol\n修复点赞弹幕跳转未留提前量，导致跳转到弹幕时无法加载 #3459 by @Rim-World\nChromeOS(ARC) 上不再主动请求屏幕方向，由系统决定窗口方向 #3406 co-by @selcarpa",
+      "size": 24933082,
+      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0.2/PiliPlus_ios_2.2.0%2B5598.ipa",
       "developerName": "bggRGjQaUbCoE",
       "localizedDescription": "使用 Flutter 开发的第三方哔哩哔哩客户端。",
       "iconURL": "https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo/logo.png"
@@ -57,6 +57,18 @@
       "developerName": "Aidoku",
       "localizedDescription": "适用于 iPhone、iPad 和 Mac 的开源漫画阅读器。",
       "iconURL": "https://raw.githubusercontent.com/Aidoku/Aidoku/main/Aidoku/App/Resources/Assets.xcassets/AppIcon.appiconset/Icon.png"
+    },
+    {
+      "name": "Regram",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "version": "13.1.2",
+      "versionDate": "2026-11-03",
+      "versionDescription": "## 更新内容\n- 新增群内定向屏蔽：仅隐藏指定成员在所选群中的消息，按账号保存；可从群内头像菜单、群资料页及 Regram Pro 隐私页管理。\n- 新增群聊特别提醒：指定成员发言时提醒，屏蔽和内容过滤优先；可从群资料页或 Regram Pro 通知页添加成员。\n- 修复成员管理页面的返回和关闭，选群、选成员使用原生导航；修复已选成员重复出现、返回后人数与状态未刷新，显示当前群名及提醒状态。\n- 多个视频合并发送时，每个缩略图独立显示时长，下载过程中和远程 HLS 视频也保留已知时长。\n- 改进顶部全局搜索连续输入的响应，查询结果继续在后台排版和绘制。\n- 修复视频相册保存的成功提示与实际结果不一致；系统拒绝原格式时尝试兼容导出，HLS 保存优先选择兼容画质。\n## 构建与验证\n- Xcode 27.1（27A9275）完成 `//Telegram:Regram` 完整 arm64 Release，构建前后 34,493 份跟踪文件、子模块及生成配置摘要一致。\n- 83 项自动检查、39 项界面流程断言、3 项普通群筛选断言、5 项版本规则和 7 项构建配置检查通过。\n- 主应用与六个扩展、12 个 arm64 Mach-O 的严格 ad-hoc 签名、12 份匹配 dSYM、零描述文件、三语资源、字体许可及符号归档 CRC 校验通过。\n- 七个 Bundle 的安装身份、完整 entitlements 及 URL schemes 与 b34645 一致。\n构建源码：`c2a61663a5a7bd3c1bd0336d355d2689942c2819`\nRelease 对应提交：`bfb7ff5ee8464141f2530c9c7f8eed36864d1bfa`（与构建源码之间仅有文档更新）\n文件：`Regram-13.1.2-b34646.ipa`\n大小：78,632,322 字节\nSHA-256：`a4f42a12f60881c262f55f1e1d843f30557c2e94737417882e242f09abfc5131`",
+      "size": 78632322,
+      "downloadURL": "https://github.com/RegramDev/Regram-ios/releases/download/v13.1.2-b34646/Regram-13.1.2-b34646.ipa",
+      "developerName": "RegramDev",
+      "localizedDescription": "基于 Telegram iOS 源码维护的非官方客户端，提供消息管理、隐私控制、翻译、语音识别和界面定制。",
+      "iconURL": "https://raw.githubusercontent.com/RegramDev/Regram-ios/master/Regram/RGBranding/AppIcons.xcassets/RGConversation.appiconset/RGConversation-light.png"
     }
   ]
 }
